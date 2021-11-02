@@ -1,0 +1,28 @@
+{
+  "name": "node-red-contrib-kitazaki-test01",
+  "version": "0.0.1",
+  "description": "This is a test node.",
+  "main": "emodiversity.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitazaki/node-red-contrib-kitazaki-test01.git"
+  },
+  "keywords": [
+    "node-red",
+    "kitazaki"
+  ],
+  "dependencies": {
+  },
+  "author": "kitazaki",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kitazaki/node-red-contrib-kitazaki-test01/issues"
+  },
+  "homepage": "https://github.com/kitazaki/node-red-contrib-kitazaki-test01#readme",
+  "node-red": {
+    "nodes": {
+      "test01": "test01.js"
+    }
+  }
+}
